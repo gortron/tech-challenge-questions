@@ -1,0 +1,22 @@
+{
+  "name": "tech-challenge-questions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gortron/tech-challenge-questions.git"
+  },
+  "author": "Gordon Lanza <gordon.lanza@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gortron/tech-challenge-questions/issues"
+  },
+  "homepage": "https://github.com/gortron/tech-challenge-questions#readme",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
